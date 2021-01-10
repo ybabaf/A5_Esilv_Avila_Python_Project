@@ -19,3 +19,7 @@ The task here is to predict from a sample of image, who is the writer of a page.
 (source document is joined in this repository)
 
 We used the Random forest model for our prediction, which showed a 98% accuracy.
+
+
+C. De Stefano, M. Maniaci, F. Fontanella, A. Scotto di Freca,
+Reliable writer identification in medieval manuscripts through page layout features: The "Avila" Bible case, Engineering Applications of Artificial Intelligence, Volume 72, 2018, pp. 99-110.
